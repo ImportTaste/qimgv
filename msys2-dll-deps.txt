@@ -48,3 +48,4 @@ zlib1.dll
 libsharpyuv-0.dll
 libtiffxx-6.dll
 libopenjp2-7.dll
+libhwy.dll
