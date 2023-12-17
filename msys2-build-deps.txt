@@ -17,3 +17,4 @@ mingw-w64-x86_64-libwebp
 mingw-w64-x86_64-libmng
 mingw-w64-x86_64-libraw
 mingw-w64-x86_64-gflags
+mingw-w64-x86_64-libjxl
