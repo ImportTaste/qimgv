@@ -50,3 +50,4 @@ libtiffxx-6.dll
 libopenjp2-7.dll
 libhwy.dll
 libSvtAv1Enc.dll
+libyuv.dll
