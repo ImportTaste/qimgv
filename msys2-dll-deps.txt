@@ -31,6 +31,7 @@ liblzma-5.dll
 libmd4c.dll
 libmng-2.dll
 libnghttp2-14.dll
+libnghttp3-9.dll
 libpcre2-16-0.dll
 libpng16-16.dll
 libpsl-5.dll
@@ -44,7 +45,7 @@ libwebp-7.dll
 libwebpdemux-2.dll
 libwebpmux-3.dll
 libwinpthread-1.dll
-libx265.dll
+libx265-209.dll
 libzstd.dll
 rav1e.dll
 zlib1.dll
@@ -52,5 +53,6 @@ libsharpyuv-0.dll
 libtiffxx-6.dll
 libopenjp2-7.dll
 libhwy.dll
-libSvtAv1Enc.dll
+libSvtAv1Enc-2.dll
 libyuv.dll
+libopenjph-0.17.dll
